@@ -90,7 +90,7 @@ a:hover,
 }
 
 .logged-out.env-production.page-responsive {
-  background-image: url("https://i.ibb.co/VxHL2MD/Frame-1-1.png") !important;
+  background-image: url("https://raw.githubusercontent.com/ThisShinrai/github-theme-firefox/main/img/background-img.png") !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
   width: 100vw !important;
