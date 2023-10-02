@@ -1,0 +1,177 @@
+.Layout-main {
+  background: transparent !important;
+}
+
+body {
+  background: black;
+}
+
+.file-navigation {
+  background: rgba(255, 255, 255, 0.02) !important;
+  padding: 20px;
+  margin-bottom: 20px !important;
+  border-radius: 25px;
+}
+
+.color-fg-default {
+  color: rgba(255, 255, 255, 0.3) !important;
+}
+
+.Button {
+  padding: 22px 40px;
+  margin: 0;
+  background: rgba(0, 0, 0, 0.2);
+  border: none;
+}
+
+.btn {
+  padding: 12px 40px;
+  border: none;
+  margin: 0 !important;
+  background: rgba(0, 0, 0, 0.2);
+}
+
+a {
+  color: rgba(255, 0, 0, 0.5);
+}
+
+a:hover,
+.Link--muted:hover {
+  color: rgba(255, 0, 0, 0.6) !important;
+}
+
+.topic-tag {
+  background: rgba(255, 0, 0, 0.1);
+  color: rgba(255, 0, 0, 0.5);
+
+  transition: all 1s ease-out !important;
+}
+
+.topic-tag:hover {
+  background: rgba(255, 0, 0, 0.3);
+  color: rgba(255, 0, 0, 0.5);
+}
+
+.Box {
+  margin-top: 20px;
+  border-radius: 25px;
+  background: rgba(255, 255, 255, 0.02) !important;
+  padding: 20px;
+  border: none;
+  backdrop-filter: blur(10px);
+}
+
+.Box-header {
+  background: transparent !important;
+  border: none !important;
+}
+
+.Box-row {
+  background: transparent !important;
+}
+
+.Box-row:hover {
+  background: transparent !important;
+}
+
+.Box-row:focus {
+  background: transparent !important;
+}
+
+#repo-content-pjax-container {
+  width: 100vw !important;
+  height: 100vh !important;
+  overflow: scroll !important;
+}
+
+#repository-container-header {
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+.logged-out.env-production.page-responsive {
+  background-image: url("https://i.ibb.co/VxHL2MD/Frame-1-1.png") !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  width: 100vw !important;
+  height: 100vh !important;
+  overflow: scroll !important;
+}
+
+header {
+  background: transparent !important;
+  border: none !important;
+}
+
+nav {
+  box-shadow: none !important;
+}
+
+.d-flex.js-sticky.js-position-sticky.top-0.border-top-0.border-bottom.p-2.flex-items-center.flex-justify-between.color-bg-default.rounded-top-2 {
+  margin-top: 20px;
+  border-radius: 25px;
+  background: rgba(255, 255, 255, 0.02) !important;
+  padding: 20px;
+  border: none;
+  backdrop-filter: blur(10px);
+}
+
+readme-toc {
+  margin-top: 20px;
+  border-radius: 25px;
+  background: rgba(255, 255, 255, 0.02) !important;
+  padding: 20px;
+  border: none;
+  backdrop-filter: blur(10px);
+}
+
+.SelectMenu-modal {
+  position: absolute;
+  z-index: 9999;
+}
+
+input-demux {
+  z-index: 999999999;
+}
+
+.dropdown-menu {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(8px);
+}
+
+.tabnav-tab {
+  background: rgba(255, 255, 255, 0.1) !important;
+  backdrop-filter: blur(8px) !important;
+}
+
+.dropdown-menu .color-bg-subtle {
+  background-color: transparent !important;
+}
+
+.Button--primary:hover {
+  background: rgba(255, 0, 0, 0.1) !important;
+}
+
+.search-input-container {
+  background: rgba(255, 255, 255, 0.02) !important;
+  border: none;
+  padding: 10px 25px;
+}
+
+.Label--success,
+.color-fg-success {
+  border-color: rgba(255, 0, 0, 0.9) !important;
+  color: rgba(255, 0, 0, 0.8) !important;
+}
+
+.Link {
+  color: rgba(255, 0, 0, 0.5);
+}
+
+.Link--primary:hover {
+  color: rgba(255, 0, 0, 0.7) !important;
+}
+
+.color-border-default {
+  border-color: transparent !important;
+}
